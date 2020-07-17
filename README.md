@@ -29,3 +29,8 @@ I attended many professional training  about this job line and i will continue t
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://www.kaggle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <code><a href="http://tomcat.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></a></code>
+
+## Contact Me 📫
+
+[![Linkedin Badge](https://img.shields.io/badge/keremvaris-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmettahiraslan/)
+[![Instagram Badge](https://img.shields.io/badge/keremvaris-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/mhmthraslan/)
