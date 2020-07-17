@@ -31,9 +31,9 @@ I attended many professional training  about this job line and i will continue t
 
 ## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/mehmet-tahir-aslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmettahiraslan/)
+[![Linkedin Badge](https://img.shields.io/badge/mehmettahiraslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmettahiraslan/)
 
-[![Instagram Badge](https://img.shields.io/badge/mehmet-tahir-aslan-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/mhmthraslan/)
+[![Instagram Badge](https://img.shields.io/badge/mehmettahiraslan-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/mhmthraslan/)
 
 ## Visitors 💬
  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmtahiraslan.mtahiraslan%2Freadme)
