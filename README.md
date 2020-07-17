@@ -1,7 +1,7 @@
 
 ### About Myself 👋
 
-" Hi, my name is Mehmet Tahir. I am 24 years old.
+" Hi ! and welcome to my github. My name is Mehmet Tahir. I am 24 years old.
 I have just finished my degree in computer engineering in Kastamonu University. 
 I am dealing with data science and software development and I continue to develop projects on these topics. 
 I aim to improve myself in these areas and work in a nice company.
