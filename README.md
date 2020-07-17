@@ -1,11 +1,7 @@
-### Hi there 👋
+### About Myself 👋
 
 <!--
 **mtahiraslan/mtahiraslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Kendimi kısa tanıtma
 
 " Hi, my name is Mehmet Tahir. I am 24 years old.
 I have just finished my degree in computer engineering in Kastamonu University. 
