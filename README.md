@@ -2,11 +2,9 @@
 ### About Myself 👋
 
 " Hi ! and welcome to my github. My name is Mehmet Tahir. I am 24 years old.
+I'm currently working as a Junior Business Intelligence Consultant at itelligence TR.
 I have just finished my degree in computer engineering in Kastamonu University. 
-I am dealing with data science and software development and I continue to develop projects on these topics. 
-I aim to improve myself in these areas and work in a nice company.
-I participated many small projects at university time and successfully completed. 
-I attended many professional training  about this job line and i will continue to attend.
+I am dealing with Business Intelligence, Data Science, SAP Business Object, Data Services and I continue to develop projects on these topics. 
 
 ![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtahiraslan&show_icons=true)
 
