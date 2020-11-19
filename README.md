@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet Tahir Aslan</h1>
-<h3 align="center">I'm currently working as a Junior Business Intelligence Consultant at itelligence TR. I have finished my degree in computer engineering in Kastamonu University. I am dealing with Business Intelligence, Data Science, SAP Business Object, Data Services and I continue to develop projects on these topics.</h3>
+<h3 align="center">I'm currently working as a Junior Business Intelligence Consultant at itelligence TR. I have finished my degree in computer engineering in Kastamonu University. I am dealing with Business Intelligence, Data Science, Big Data and I continue to develop projects on these topics.</h3>
 
-- 🔭 I’m currently working on **Data Services and ETL**
+- 🔭 I’m currently working on **SAP Business Object, UDT & IDT , Big Data, Data Engineering **
 
-- 🌱 I’m currently learning **SAP Business Object, Data Services, Web Intelligence**
+- 🌱 I’m currently learning **SAP Business Object, Data Services, Web Intelligence, Big Data, Data Engineering**
 
-- 💬 Ask me about **Machine Learning, Data Services, Python Libraries**
+- 💬 Ask me about **Business Intelligence, Machine Learning, Data Services, Big Data**
 
 - 📫 How to reach me **mtahiraslan23@gmail.com**
 
