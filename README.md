@@ -1,16 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet Tahir Aslan</h1>
-<h3 align="center">I'm currently working as a Junior Business Intelligence Consultant at itelligence TR. I have finished my degree in computer engineering in Kastamonu University. I am dealing with Business Intelligence, Data Science, Big Data and I continue to develop projects on these topics.</h3>
+<h3 align="center">In line with the trainings I have received in the past, I want to continue my career as Data Analyst, Business Analyst, ETL Developer or BI Consultant. I like to play with messy data and try to get meaningful information from them. I am a good team player and a person with strong communication skills. At the same time, I am someone who has analytical thinking, is ambitious for new achievements, and adapts quickly to new technologies.
+</h3>
 
-- 🔭 I’m currently working on **SAP Business Object, UDT & IDT , Big Data, Data Engineering**
+- 🔭 I’m currently working on ** SAP Business Object, ETL, Data Visualization, Reporting **
 
-- 🌱 I’m currently learning **SAP Business Object, Data Services, Web Intelligence, Big Data, Data Engineering**
+- 🌱 I’m currently learning ** SAP Business Object, Big Data, Data Engineering, Business Intelligence **
 
-- 💬 Ask me about **Business Intelligence, Machine Learning, Data Services, Big Data**
+- 💬 Ask me about ** Business Intelligence, Machine Learning, Data Visualization **
 
 - 📫 How to reach me **mtahiraslan23@gmail.com**
 
-- ⚡ Fun fact **Wake up and smell the coffee then work..**
+- ⚡ Fun fact ** Wake up and smell the coffee then work.. **
 
 ![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtahiraslan&show_icons=true)
 
