@@ -36,7 +36,7 @@
 
 ## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/mehmettahiraslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmettahiraslan/)
+[![Linkedin Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mtahiraslan)
 
 [![Instagram Badge](https://img.shields.io/badge/mehmettahiraslan-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/mhmthraslan/)
 
