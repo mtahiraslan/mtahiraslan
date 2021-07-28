@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Mehmet Tahir Aslan</h1>
+<h1 align="center">Hi, welcome to my Page !</h1>
 <h3 align="center">After completing my undergraduate education, I have experience in web software development, business intelligence, data analysis, data science and data warehousing for more than 1 year.
 </h3>
 
-- 💬 Technical Competencies:
+- 💬 Technical Competencies:<br>
   ► Programming: Python (Pandas, Keras, Numpy, Seaborn, Matplotlib, OpenCV, BeautifulSoup), T-SQL, PL-SQL
   ► Visualization: Tableau, Power BI, Qlik Sense, SAP Analytics Cloud, SAP Business Objects, Google Data Studio
   ► ETL Tools: Microsoft SSIS, SAP Data Services Designer, Oracle Data Integrator 11g
