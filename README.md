@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet Tahir Aslan</h1>
-<h3 align="center">In line with the trainings I have received in the past, I want to continue my career as Data Analyst, Business Analyst, ETL Developer or BI Consultant. I like to play with messy data and try to get meaningful information from them. I am a good team player and a person with strong communication skills. At the same time, I am someone who has analytical thinking, is ambitious for new achievements, and adapts quickly to new technologies.
+<h3 align="center">After completing my undergraduate education, I have experience in web software development, business intelligence, data analysis, data science and data warehousing for more than 1 year.
 </h3>
 
-- 🔭 I’m currently working on ** SAP Business Object, ETL, Data Visualization, Reporting **
-
-- 🌱 I’m currently learning ** SAP Business Object, Big Data, Data Engineering, Business Intelligence **
-
-- 💬 Ask me about ** Business Intelligence, Machine Learning, Data Visualization **
+- 💬 Technical Competencies:
+  ► Programming: Python (Pandas, Keras, Numpy, Seaborn, Matplotlib, OpenCV, BeautifulSoup), T-SQL, PL-SQL
+  ► Visualization: Tableau, Power BI, Qlik Sense, SAP Analytics Cloud, SAP Business Objects, Google Data Studio
+  ► ETL Tools: Microsoft SSIS, SAP Data Services Designer, Oracle Data Integrator 11g
+  ► Statistics: Excel
+  ► Version Control: Git
+  ► Project Management: Jira, Trello
 
 - 📫 How to reach me **mtahiraslan23@gmail.com**
-
-- ⚡ Fun fact ** Wake up and smell the coffee then work.. **
 
 ![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtahiraslan&show_icons=true)
 
