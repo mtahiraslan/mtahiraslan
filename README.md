@@ -1,16 +1,21 @@
 
-<h1 align="center">Hi, welcome to my Page !</h1>
-<h3 align="center">After completing my undergraduate education, I have experience in web software development, business intelligence, data analysis, data science and data warehousing for more than 1 year.
+<h1 align="center">Hi, welcome to my GitHub Page !</h1>
+<h3 align="center">Data is my passion. I can tell you an impressive story by using your data and turn it into meaningful insight. Have been dealing with data for 2 years. I am able to adapt to changing VUCA World priorities. I have worked on lots of projects in multiple disciplines with several sector/domains. I have private sector experiences in many titles as a/an Business Intelligence Consultant, Data Warehouse Consultant and Data Analyst.
 </h3>
 
 - 💬 Technical Competencies:<br>
   <br>
-  ► Programming: Python (Pandas, Keras, Numpy, Seaborn, Matplotlib, OpenCV, BeautifulSoup), T-SQL, PL-SQL, PostgreSQL <br>
-  ► Visualization: Tableau, Power BI, Qlik Sense, QlikView, SAP Analytics Cloud, SAP Business Objects, Google Data Studio <br>
-  ► ETL Tools: Microsoft SSIS, SAP Data Services Designer <br>
-  ► Statistics: Excel <br>
-  ► Version Control: Git <br>
-  ► Project Management: Jira, Trello <br>
+  ► Development Skills: Python, Excel <br>
+  ► Database: T-SQL, PostgreSQL <br>
+  ► Big Data and Machine Learning: Python (eg. NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn, BeautifulSoup, Requests) <br>
+  ► DWH and ETL Tools: Microsoft SSIS, SAP Data Services Designer <br>
+  ► Cloud Infrastructure & Technologies: GCP <br>
+  ► Data Visualisation, Reporting and Business Intelligence Tools: Qlik Sense, QlikView, Tableau, Power BI, SAP Business Objects, Google Data Studio <br>
+  ► Other: Git, Google Sheets, Jira, PowerPoint <br>
+  
+- 💬 Proficiencies:<br>
+► Business Intelligence, Data Warehousing, Data Visualization, Data Analytics, Data Modeling, Data Cleaning, Data Extraction, Data Science, Data Analysis, ETL, Business Process, Business Analysis, Data Management, Machine Learning, Web Scraping, Artificial Intelligence <br>
+
 
 - 📫 How to reach me **mtahiraslan23@gmail.com**
 
