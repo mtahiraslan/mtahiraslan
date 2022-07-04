@@ -5,9 +5,9 @@
 
 - 💬 Technical Competencies:<br>
   <br>
-  ► Programming: Python (Pandas, Keras, Numpy, Seaborn, Matplotlib, OpenCV, BeautifulSoup), T-SQL, PL-SQL <br>
-  ► Visualization: Tableau, Power BI, Qlik Sense, SAP Analytics Cloud, SAP Business Objects, Google Data Studio <br>
-  ► ETL Tools: Microsoft SSIS, SAP Data Services Designer, Oracle Data Integrator 11g <br>
+  ► Programming: Python (Pandas, Keras, Numpy, Seaborn, Matplotlib, OpenCV, BeautifulSoup), T-SQL, PL-SQL, PostgreSQL <br>
+  ► Visualization: Tableau, Power BI, Qlik Sense, QlikView, SAP Analytics Cloud, SAP Business Objects, Google Data Studio <br>
+  ► ETL Tools: Microsoft SSIS, SAP Data Services Designer <br>
   ► Statistics: Excel <br>
   ► Version Control: Git <br>
   ► Project Management: Jira, Trello <br>
