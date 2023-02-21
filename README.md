@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi, welcome to my GitHub Page !</h1>
-<h3 align="center">Data is my passion. I can tell you an impressive story by using your data and turn it into meaningful insight. Have been dealing with data for 2 years. I am able to adapt to changing VUCA World priorities. I have worked on lots of projects in multiple disciplines with several sector/domains. I have private sector experiences in many titles as a/an Business Intelligence Consultant, Data Warehouse Consultant and Data Analyst.
-</h3>
+<h4 align="center">Data is my passion. I can tell you an impressive story by using your data and turn it into meaningful insight. I've been dealing with data for 2+ years. I am able to adapt to changing VUCA World priorities. I have worked on lots of projects in multiple disciplines with several sector/domains. I have private sector experiences in many titles as a/an Business Intelligence Consultant, Data Warehouse Consultant and Data Analyst.
+</h4>
 
 - 💬 Technical Competencies:<br>
   <br>
   ► Development Skills: Python, Excel <br>
-  ► Database: T-SQL, PostgreSQL <br>
+  ► Database: T-SQL, PostgreSQL, Oracle PL/SQL, DBeaver <br>
   ► Big Data and Machine Learning: Python (eg. NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn, BeautifulSoup, Requests) <br>
   ► DWH and ETL Tools: Microsoft SSIS, SAP Data Services Designer <br>
   ► Cloud Infrastructure & Technologies: GCP <br>
