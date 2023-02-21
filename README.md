@@ -19,7 +19,10 @@
 
 - 📫 How to reach me **mtahiraslan23@gmail.com**
 
-![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtahiraslan&show_icons=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mtahiraslan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### Know / Using 🧠
 
