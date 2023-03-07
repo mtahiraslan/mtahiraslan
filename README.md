@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 My name is Mehmet Tahir Aslan</h1>
-<h4 align="center">Data is my passion. I can tell you an impressive story by using your data and turn it into meaningful insight. I've been dealing with data for 2+ years. I am able to adapt to changing VUCA World priorities. I have worked on lots of projects in multiple disciplines with several sector/domains. I have private sector experiences in many titles as a/an Business Intelligence Consultant, Data Warehouse Consultant and Data Analyst.
+<h4 align="center">Data is my passion. I can tell you an impressive story by using your data and turn it into meaningful insight. I've been dealing with data for 3+ years. I am able to adapt to changing VUCA World priorities. I have worked on lots of projects in multiple disciplines with several sector/domains. I have private sector experiences in many titles as a/an Business Intelligence Consultant, Data Warehouse Consultant and Data Analyst.
 </h4>
 
 - 💬 Technical Competencies:<br>
