@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fprogrammer-is-tired-work-development-programming-coding-technologies-low-battery_28837910.htm&psig=AOvVaw0nBbZ67R5eo_cBpLji264o&ust=1684419664974000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCHlrDG_P4CFQAAAAAdAAAAABAF" />
 
 - 👨🏽‍💻 I’m currently working on [Crystal System](https://www.linkedin.com/company/crystal-system/mycompany/);
 - 🧑 I'm a meticulous and passionate data professional with 3+ years of experience in the field. I'm able to adapt to changing priorities in the VUCA world and have worked on various projects across multiple disciplines and sectors.
