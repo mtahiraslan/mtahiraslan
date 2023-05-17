@@ -43,8 +43,12 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/mtahiraslan/data-analyst-roadmap">
+  <a href="https://github.com/mtahiraslan/">
     <img width="55%" align="right" alt="Mehmet Tahir's github stats" src="https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+  </a>
+ 
+  <a>
+    <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
