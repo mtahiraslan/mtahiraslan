@@ -53,5 +53,5 @@
 [![Twitter Badge](https://img.shields.io/badge/aslanmtahir-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhmthraslan)
 
 ## Visitors 💬
- ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmtahiraslan.mtahiraslan%2Freadme)
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=mtahiraslan&label=Profile%20views&color=c8b90e&style=flat-square"alt="mtahiraslan"/> </p>
  
