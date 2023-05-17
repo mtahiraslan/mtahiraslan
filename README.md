@@ -20,27 +20,20 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826" />
 
 - 👨🏽‍💻 I’m currently working on [Crystal System](https://www.linkedin.com/company/crystal-system/mycompany/)
-
 - 🧑 I'm a meticulous and passionate **data professional with 3+ years of experience** in the sector.
-
 - 🎓 A.S in Medical Assistant → **Bachelor of Science (BSc)** in Computer Engineering
-
 - 📊 Passionate about all things **Data Analytics, Data Science, Data Engineering**
-
 - 💻 A lot of fields spark my interest such as **Data Science, Data Engineering, Product Management**
-
 - 💪🏽 Skilled in the following technical skills:
   * **Programming Language:** Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn, beautifulsoup, requests)
   * **RDBMS & Database:** Oracle Database, Microsoft SQL Server, PL/SQL, T-SQL
   * **DWH & ETL Tools:** Microsoft SSIS, ODI (Oracle Data Integrator)
   * **BI & Data Visualization Tools:** Qlik, OBIEE, Power BI, Tableau, SAP BO
   * **Other:** Git, Linux Bash, Google Sheets, Microsoft Excel, Jira
-
 - 🖥️ Proficiencies:
   * Data Science, Data Analytics, Data Analysis, Data Management, Machine Learning, Web Scraping
   * Business Intelligence, Data Warehousing, ETL, Data Visualization, Data Extraction, Data Mining
   * Business Analysis, Business Process, Product Management
-
 - 💬 **Ask me about anything**, I am happy to help
 - 📫 How to reach me: **mtahiraslan23@gmail.com**
 
