@@ -1,55 +1,80 @@
+<!-- Your title -->
+## Hi, I'm Mehmet Tahir, a Developer 🚀 from Turkey.
 
-<h1 align="center">Hi 👋 My name is Mehmet Tahir Aslan</h1>
-<h4 align="center">Data is my passion. I can tell you an impressive story by using your data and turn it into meaningful insight. I've been dealing with data for 3+ years. I am able to adapt to changing VUCA World priorities. I have worked on lots of projects in multiple disciplines with several sector/domains. I have private sector experiences in many titles as a/an Business Intelligence Consultant, Data Warehouse Consultant and Data Analyst.
-</h4>
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
-- 💬 Technical Competencies:<br>
-  <br>
-  ► Development Skills: Python, Excel <br>
-  ► Database: T-SQL, PostgreSQL, Oracle PL/SQL, DBeaver <br>
-  ► Big Data and Machine Learning: Python (eg. NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn, BeautifulSoup, Requests) <br>
-  ► DWH and ETL Tools: Microsoft SSIS, SAP Data Services Designer <br>
-  ► Cloud Infrastructure & Technologies: GCP <br>
-  ► Data Visualisation, Reporting and Business Intelligence Tools: Qlik Sense, QlikView, Tableau, Power BI, SAP Business Objects, Google Data Studio <br>
-  ► Other: Git, Google Sheets, Jira, PowerPoint <br>
-  
-- 💬 Proficiencies:<br>
-► Business Intelligence, Data Warehousing, Data Visualization, Data Analytics, Data Modeling, Data Cleaning, Data Extraction, Data Science, Data Analysis, ETL, Business Process, Business Analysis, Data Management, Machine Learning, Web Scraping, Artificial Intelligence <br>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mtahiraslan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mtahiraslan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mhmthraslan/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mtahiraslan23@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mtahiraslan23@gmail.com)
 
+&nbsp;
 
-- 📫 How to reach me **mtahiraslan23@gmail.com**
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mtahiraslan&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### Know / Using 🧠
+- 👨🏽‍💻 I’m currently working on [Crystal System](https://www.linkedin.com/company/crystal-system/mycompany/);
+- 🧑 I'm a meticulous and passionate data professional with 3+ years of experience in the field. I'm able to adapt to changing priorities in the VUCA world and have worked on various projects across multiple disciplines and sectors.;
+- 🎓 A.S in Medical Assistant → Bachelor of Science (BSc) in Engineering in Computer Engineering;
+- 📊 Passionate about all things Data Analytics, Data Science, Data Engineering;
+- 💻 A lot of fields spark my interest such as Data Science, Data Engineering, Product Management;
+- 💪🏽 Skilled in the following technical skills:
+• Programming Language: Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn, beautifulsoup, requests);
+• RDBMS & Database: Oracle Database, Microsoft SQL Server, PL/SQL, T-SQL;
+• DWH & ETL Tools: Microsoft SSIS, ODI (Oracle Data Integrator);
+• BI & Data Visualization Tools: Qlik, OBIEE, Power BI, Tableau, SAP BO;
+• Other: Git, Linux Bash, Google Sheets, Microsoft Excel, Jira;
+- 🖥️ Proficiencies:
+• Data Science, Data Analytics, Data Analysis, Data Management, Machine Learning, Web Scraping;
+• Business Intelligence, Data Warehousing, ETL, Data Visualization, Data Extraction, Data Mining;
+• Business Analysis, Business Process, Product Management;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: mtahiraslan23@gmail.com;
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="100"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="git" width="100" height="100"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="git" width="100" height="100"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="git" width="100" height="100"/> </a> 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="git" width="100" height="100"/> </a> 
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="git" width="100" height="100"/> </a> 
-<a href="https://www.microsoft.com/tr-tr/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" alt="git" width="100" height="100"/> </a> 
-<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/dusk/256/dbeaver.png" alt="git" width="100" height="100"/> </a> 
-<a href="https://www.sap.com/turkey/index.html?url_id=auto_hp_redirect_turkey" target="_blank" rel="noreferrer"> <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg" alt="git" width="100" height="100"/> </a> 
-<a href="https://www.qlik.com/us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/512px-Qlik_Logo.svg.png?20220803184131" alt="git" width="100" height="100"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="git" width="100" height="100"/> </a> 
-<a href="https://powerbi.microsoft.com/tr-tr/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/power-bi.png" alt="git" width="100" height="100"/> </a> 
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://wac-cdn.atlassian.com/dam/jcr:616e6748-ad8c-48d9-ae93-e49019ed5259/Atlassian-horizontal-blue-rgb.svg?cdnVersion=798" alt="git" width="100" height="100"/> </a> 
+**Languages and Tools:** 
 
-## Contact Me 📫
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/mtahiraslan/data-analyst-roadmap">
+    <img width="55%" align="right" alt="Mehmet Tahir's github stats" src="https://github-readme-stats.vercel.app/api?username=mtahiraslan&show_icons=true&hide_border=true" />
+  </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtahiraslan)
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/aslanmtahir-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhmthraslan)
-
-## Visitors 💬
- <p align="left"> <img src=https://komarev.com/ghpvc/?username=mtahiraslan alt=mtahiraslan/> </p>
- 
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mtahiraslan/mtahiraslan.svg" />
+</p>
