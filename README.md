@@ -19,8 +19,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826" />
 
-- 👨🏽‍💻 I’m currently working on [Crystal System](https://www.linkedin.com/company/crystal-system/mycompany/)
-- 🧑 I'm a meticulous and passionate **data professional with 3+ years of experience** in the sector.
+- 👨🏽‍💻 I’m currently working on [BeeBI Consulting GmbH](https://www.linkedin.com/company/beebi-consulting/mycompany/)
+- 🧑 I'm a meticulous and passionate **data engineer with 3+ years of experience** in the sector.
 - 🎓 A.S in Medical Assistant → **Bachelor of Science (BSc)** in Computer Engineering
 - 📊 Passionate about all things **Data Analytics, Data Science, Data Engineering**
 - 💻 A lot of fields spark my interest such as **Data Science, Data Engineering, Product Management**
