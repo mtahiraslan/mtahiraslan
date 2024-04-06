@@ -15,11 +15,12 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826" />
+<img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826"/>
 
 I'm a professional Data Engineer with over 4 years of experience transforming raw data into meaningful insights. Passionate about solving complex data problems, I have a proven track record of implementing scalable data pipelines and analytics solutions that drive strategic decisions. Here's a bit about what I do and what I love in the realm of data engineering.
 
-- 🛠 Tech Stack
+- 🛠 **Tech Stack**
+<br />
 Here are some of the technologies I've worked with:
   * **Programming Languages:** Python, SQL
   * **Databases:** Oracle, PostgreSQL, Microsoft SQL Server
@@ -30,7 +31,8 @@ Here are some of the technologies I've worked with:
   * **Version Control:** Git, Github
   * **Documentation:** Confluence
   * **Project Management:** Jira
-
+<br />
+<br />
 - 💬 **Ask me about anything**, I am happy to help
 - 📫 How to reach me: **mtahiraslan23@gmail.com**
 
