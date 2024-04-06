@@ -27,9 +27,11 @@ Here are some of the technologies I've worked with:
   * **Documentation:** Confluence
   * **Project Management:** Jira
 
-&nbsp;
-- 💬 **Ask me about anything**, I am happy to help
-- 📫 How to reach me: **mtahiraslan23@gmail.com**
+
+*-* 💬 **Ask me about anything**, I am happy to help
+
+*-* 📫 How to reach me: **mtahiraslan23@gmail.com**
+
 
 
 **Technologies & Tools:**
