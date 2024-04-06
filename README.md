@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Mehmet Tahir, a Developer 🚀 from Turkey.
+## 👋🏼 Hi there! I'm Mehmet Tahir, 💻 a data engineer from Turkey.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,33 +14,32 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826" />
 
-- 👨🏽‍💻 I’m currently working on [BeeBI Consulting GmbH](https://www.linkedin.com/company/beebi-consulting/mycompany/)
-- 🧑 I'm a meticulous and passionate **data engineer with 3+ years of experience** in the sector.
-- 🎓 A.S in Medical Assistant → **Bachelor of Science (BSc)** in Computer Engineering
-- 📊 Passionate about all things **Data Analytics, Data Science, Data Engineering**
-- 💻 A lot of fields spark my interest such as **Data Science, Data Engineering, Product Management**
-- 💪🏽 Skilled in the following technical skills:
-  * **Programming Language:** Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn, beautifulsoup, requests)
-  * **RDBMS & Database:** Oracle Database, Microsoft SQL Server, PL/SQL, T-SQL
-  * **DWH & ETL Tools:** Microsoft SSIS, ODI (Oracle Data Integrator)
-  * **BI & Data Visualization Tools:** Qlik, OBIEE, Power BI, Tableau, SAP BO
-  * **Other:** Git, Linux Bash, Google Sheets, Microsoft Excel, Jira
-- 🖥️ Proficiencies:
-  * Data Science, Data Analytics, Data Analysis, Data Management, Machine Learning, Web Scraping
-  * Business Intelligence, Data Warehousing, ETL, Data Visualization, Data Extraction, Data Mining
-  * Business Analysis, Business Process, Product Management
+I'm a professional Data Engineer with over 4 years of experience transforming raw data into meaningful insights. Passionate about solving complex data problems, I have a proven track record of implementing scalable data pipelines and analytics solutions that drive strategic decisions. Here's a bit about what I do and what I love in the realm of data engineering.
+
+- 🛠 Tech Stack
+Here are some of the technologies I've worked with:
+  * **Programming Languages:** Python, SQL
+  * **Databases:** Oracle, PostgreSQL, Microsoft SQL Server
+  * **Cloud Platforms:** AWS (Amazon Web Services), GCP (Google Cloud Platform), Azure
+  * **Big Data Technologies:** Apache Spark, Apache Airflow, Databricks, dbt
+  * **Cloud Data Warehousing:** Amazon Redshift, Google Big Query
+  * **DevOps Tools:** Docker
+  * **Version Control:** Git, Github
+  * **Documentation:** Confluence
+  * **Project Management:** Jira
+
 - 💬 **Ask me about anything**, I am happy to help
 - 📫 How to reach me: **mtahiraslan23@gmail.com**
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+<!-- Your GitHub readme stats
+You can use this API: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/mtahiraslan/">
@@ -52,32 +51,44 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/oracle/oracle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/353805/google-cloud.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg"></code>
+  <code><img width="10%" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-ar21.svg"></code>
+  <code><img width="10%" src="https://logowik.com/content/uploads/images/dbt5596.jpg"></code>
+  <code><img width="10%" src="https://logowik.com/content/uploads/images/amazon-redshift2247.jpg"></code>
    <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_bigquery/google_bigquery-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg"></code>
+   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/353597/confluence.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/354237/pycharm.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+    <br />
+  <code><img width="10%" src="https://www.svgrepo.com/show/354427/tableau.svg"></code>
+  <code><img width="10%" src="https://www.svgrepo.com/show/354242/qlik.svg"></code>
+  <code><img width="10%" src="https://logowik.com/content/uploads/images/azure-data-factory2539.jpg"></code>
 </p>
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+Both APIs are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mtahiraslan/mtahiraslan.svg" />
