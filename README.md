@@ -11,7 +11,7 @@
 
 I'm a professional Data Engineer with over 4 years of experience transforming raw data into meaningful insights. Passionate about solving complex data problems, I have a proven track record of implementing scalable data pipelines and analytics solutions that drive strategic decisions. Here's a bit about what I do and what I love in the realm of data engineering.
 
-- 🛠 **Tech Stack**
+*-* 🛠 **Tech Stack**
 
 
 Here are some of the technologies I've worked with:
