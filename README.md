@@ -53,33 +53,33 @@ You can use this API: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/oracle/oracle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/353805/google-cloud.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
   <code><img width="10%" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></code>
   <code><img width="10%" src="https://logowik.com/content/uploads/images/dbt5596.jpg"></code>
   <code><img width="10%" src="https://logowik.com/content/uploads/images/amazon-redshift2247.jpg"></code>
    <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_bigquery/google_bigquery-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
    <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/353597/confluence.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/354237/pycharm.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
     <br />
   <code><img width="10%" src="https://www.svgrepo.com/show/354427/tableau.svg"></code>
   <code><img width="10%" src="https://www.svgrepo.com/show/354242/qlik.svg"></code>
