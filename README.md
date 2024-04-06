@@ -26,6 +26,7 @@ Here are some of the technologies I've worked with:
   * **Version Control:** Git, Github
   * **Documentation:** Confluence
   * **Project Management:** Jira
+  * **Data Visualization/BI Tools:** Microsoft Power BI, Qlik, Tableau
 
 
 *-* 💬 **Ask me about anything**, I am happy to help
