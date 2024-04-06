@@ -1,9 +1,4 @@
-<!-- Your title -->
 ## 👋🏼 Hi there! I'm Mehmet Tahir, 💻 a data engineer from Turkey.
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mtahiraslan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mtahiraslan/)
@@ -11,16 +6,13 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mtahiraslan23@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mtahiraslan23@gmail.com)
 
-&nbsp;
 
-<!-- Talking about you -->
-<!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826"/>
 
 I'm a professional Data Engineer with over 4 years of experience transforming raw data into meaningful insights. Passionate about solving complex data problems, I have a proven track record of implementing scalable data pipelines and analytics solutions that drive strategic decisions. Here's a bit about what I do and what I love in the realm of data engineering.
 
 - 🛠 **Tech Stack**
-<br />
+&nbsp;
 Here are some of the technologies I've worked with:
   * **Programming Languages:** Python, SQL
   * **Databases:** Oracle, PostgreSQL, Microsoft SQL Server
@@ -31,16 +23,13 @@ Here are some of the technologies I've worked with:
   * **Version Control:** Git, Github
   * **Documentation:** Confluence
   * **Project Management:** Jira
-<br />
-<br />
+
+&nbsp;
 - 💬 **Ask me about anything**, I am happy to help
 - 📫 How to reach me: **mtahiraslan23@gmail.com**
 
 **Technologies & Tools:** 
 
-<!-- Your GitHub readme stats
-You can use this API: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
   <a href="https://github.com/mtahiraslan/">
     <img width="55%" align="right" alt="Mehmet Tahir's github stats" src="https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
@@ -50,9 +39,6 @@ You can use this API: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
@@ -86,10 +72,6 @@ You can use this API: https://github.com/anuraghazra/github-readme-stats
   <code><img width="100" height="60" src="https://logowik.com/content/uploads/images/azure-data-factory2539.jpg"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both APIs are in trouble due to the number of requests, if you know any other to register visitors, great
--->
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mtahiraslan/mtahiraslan.svg" />
 </p>
